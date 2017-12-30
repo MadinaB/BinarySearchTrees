@@ -1,7 +1,7 @@
 # BinarySearchTrees
 Performance Comparison Tests for AVL Tree and Binary Search Tree
 
-AVL Tree and Binary Search Tree were studied. The whole idea and algorithms were taken from “ Data Structures and Algorithms in C++ “.
+AVL Tree and Binary Search Tree performance is being studied here. The whole idea and algorithms were taken from “ Data Structures and Algorithms in C++ “.
 Implementation idea was straightforward taken from book materials. All methods except restructure(x) got really easy in dealing with, while restructure(x) took more time since it was difficult for me to keep track of all pointers in all rotations and I usually got some segmentation fault errors and warnings.
 
 In Performance and comparison part I created tests for 100, 1000, 10000, 100000 and 1000000 elements for each set size (100, 1000, 10000, 100000 and 1000000 elements) I fill 3 files with 3 different random sets.
